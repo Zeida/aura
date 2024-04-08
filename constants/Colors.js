@@ -1,0 +1,1 @@
+export const LIGHT_PINK=  '#fcf3ea';
